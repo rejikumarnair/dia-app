@@ -32,7 +32,7 @@ function App() {
         </div>
       </form>
       <div className="footer">
-        <p>© 2025 DIA Search | Developed with ❤️ by Innovators</p>
+        <p>© 2025 DIA Search | Developed with ❤️ by SkilledX</p>
       </div>
     </div>
   );
