@@ -5,7 +5,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Hello World
+        <h1>Hello World</h1>
+        <p>
+          Note:
+          This is the testing Home page of the app
+          the working is in progress. stay tuned and give me the next comments
+        </p>
       </header>
     </div>
   );
